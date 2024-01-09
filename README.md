@@ -60,11 +60,6 @@ To deploy and interact with the AlcoholDetection smart contract, follow these st
 
 - The smart contract emits events (`ParticipantAllowed` and `AlcoholDetected`) for transparency and monitoring purposes.
 
-### Security Considerations
-
-- Ensure only authorized addresses are granted the role of the organizer.
-- Be cautious with the predefined ranges in the `calculateFine` function to avoid unintended outcomes.
-
 ## Auhtor
 
 Nagesh  K C
